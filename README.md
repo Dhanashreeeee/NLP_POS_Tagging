@@ -1,0 +1,3 @@
+Part-of-Speech (POS) tagging is a fundamental task in Natural Language Processing (NLP) that involves labeling words in a text with their respective parts of speech, such as nouns, verbs, adjectives, and adverbs. It plays a crucial role in various NLP applications, including syntactic parsing, sentiment analysis, and machine translation.
+
+When working with Indian languages, POS tagging presents unique challenges due to rich morphology, free word order, and the presence of postpositions. To address these challenges, this project implements a POS tagging system for Indian languages along with parse tree generation, which provides a visual representation of the syntactic structure of a sentence.
